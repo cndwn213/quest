@@ -9,6 +9,7 @@
 <body>
 <script type="text/javascript">
 	location.href="deptList.do"
+	
 </script>
 </body>
 </html>
